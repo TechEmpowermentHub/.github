@@ -19,7 +19,15 @@
 
 ## About
 
-Tech Empowerment Hub (TEH) is a community for people that want to learn software engineering
+Tech Empowerment Hub (TEH) is a community for people that want to learn software engineering, followed by specialization in:
+
+- Frontend Engineering
+- Backend Engineering
+- Automation Engineering
+- Data Engineering
+- AI Engineering
+- ML Engineering
+- Etc
 
 We focus on practical learning through:
 
@@ -38,3 +46,12 @@ Most online discussions happen on whatsApp, for now
 | Automation Engineering | WhatsApp discussions |
 | Data Engineering | |
 | AI Engineering | |
+
+
+## Courses
+
+All our courses are free and open-source. You can take the course by joining a live running cohort
+
+The courses activities include homework, peer reviews, project work, and a certificate for students who successfully complete the course requirements.
+
+
