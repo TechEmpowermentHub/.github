@@ -46,9 +46,8 @@ Most online discussions happen on whatsApp, for now
 | Frontend Engineering | Live cohorts |
 | Backend Engineering | Weekly classes |
 | Automation Engineering | WhatsApp discussions |
-| Data Engineering | |
-| AI Engineering | |
-| ML Engineering | |
+| Data Engineering | Weekly exercises |
+| AI Engineering | Weekly projects |
 
 
 ## Courses
