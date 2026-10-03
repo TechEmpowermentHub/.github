@@ -18,7 +18,7 @@ Build the foundation you need to become a software engineer and specialize in mo
 
 > New here? You can be up and running in under 5 minutes.
 
-1. **[Join WhatsApp](https://datatalks.club/slack.html)**
+1. **[Join WhatsApp]()**
 
 
 ## About
@@ -30,7 +30,7 @@ Tech Empowerment Hub (TEH) is a community for people that want to learn software
 - Automation Engineering
 - Data Engineering
 - AI Engineering
-- ML Engineering
+
 - Etc
 
 We focus on practical learning through:
