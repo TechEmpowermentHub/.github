@@ -18,7 +18,7 @@ Build the foundation you need to become a software engineer and specialize in mo
 
 > New here? You can be up and running in under 5 minutes.
 
-1. **[Join WhatsApp]()**
+1. **[Join WhatsApp](./README.md/)**
 
 
 ## About
