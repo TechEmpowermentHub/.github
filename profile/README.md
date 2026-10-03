@@ -46,6 +46,7 @@ Most online discussions happen on whatsApp, for now
 | Automation Engineering | WhatsApp discussions |
 | Data Engineering | |
 | AI Engineering | |
+| ML Engineering | |
 
 
 ## Courses
@@ -53,5 +54,3 @@ Most online discussions happen on whatsApp, for now
 All our courses are free and open-source. You can take the course by joining a live running cohort
 
 The courses activities include homework, peer reviews, project work, and a certificate for students who successfully complete the course requirements.
-
-
