@@ -31,8 +31,6 @@ Tech Empowerment Hub (TEH) is a community for people that want to learn software
 - Data Engineering
 - AI Engineering
 
-- Etc
-
 We focus on practical learning through:
 
 - Free courses
