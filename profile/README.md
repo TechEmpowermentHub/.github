@@ -8,13 +8,11 @@ Build the foundation you need to become a software engineer and specialize in mo
 [Quick Start](#-quick-start) ·
 [About](#-about) ·
 [Free Courses](#-free-courses) ·
+[How it works](#how-it-works)
 [Events & Community](#-events--community) ·
 [Knowledge Hub](#-knowledge-hub) ·
 [Testimonials](#-testimonials) ·
 [Contributing](#-contributing) ·
-[Support](#-support-our-mission)
-
-
 
 ## 🚀 Quick Start
 
