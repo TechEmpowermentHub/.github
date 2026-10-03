@@ -1,3 +1,9 @@
+# Tech Empowerment Hub
+
+```text
+Build the foundation you need to become a software engineer and specialize in modern software careers.
+```
+
 **Contents:**
 [Quick Start](#-quick-start) ·
 [About](#-about) ·
