@@ -57,6 +57,19 @@ Most online discussions happen on whatsApp, for now
 
 ## Courses
 
+1. [Introduction to Computer Programming and Software Engineering](https://github.com/TechEmpowermentHub/software-egineering)
+
 All our courses are free and open-source. You can take the course by joining a live running cohort
 
 The courses activities include homework, peer reviews, project work, and a certificate for students who successfully complete the course requirements.
+
+## How it works
+
+For each Week:
+
+- Objectives
+- Concepts
+- Exercises
+- Project
+- Assignment
+- Assessment
